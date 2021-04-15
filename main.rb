@@ -1,4 +1,5 @@
 # encoding: UTF-8
+require 'colorize'
 
 if (Gem.win_platform?)
   Encoding.default_external = Encoding.find(Encoding.locale_charmap)
