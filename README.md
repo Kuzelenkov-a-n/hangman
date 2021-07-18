@@ -1,6 +1,8 @@
 ## Игра "Виселица" (Ruby)
 <a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D1%81%D0%B5%D0%BB%D0%B8%D1%86%D0%B0_(%D0%B8%D0%B3%D1%80%D0%B0)">wiki</a>
 
+<img src="https://user-images.githubusercontent.com/77342692/126062162-fac035eb-5195-442f-8eb1-0d4774310641.png" alt="hangman" style="margin-left: 120px">
+
 ### Правила игры
 - При запуске игры, **СЛОВО** загадывается автоматически
 - Игрок вводит букву в попытке отгадать загаданное слово
